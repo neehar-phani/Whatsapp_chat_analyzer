@@ -24,6 +24,6 @@ Results:
 Sample Use Case
 In a business context, this tool was tested on customer feedback from WhatsApp chats with a bottle manufacturing company. The sentiment analysis helped identify pain points in the product line and guided product improvements.
 
-Model evaluation metrics:
+Model results:
 
 ![image](https://github.com/user-attachments/assets/3783ec76-44ce-41bb-8d6e-40041ff21dc4)
